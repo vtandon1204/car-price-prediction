@@ -64,9 +64,9 @@ Key findings from the data analysis include:
 - **Evaluation Metrics**:
     - R² Score: 0.85
     - MAE: 2640 (approx.)
-- Comparison of Model Performance Metrics
+- **Comparison of Model Performance Metrics**
   ![Model Performance Metrics](Comparison_Model_Performace_Metrics.jpg)
-- Model Performance Graph
+- **Model Performance Graph**
   ![Model Performance Graph](Overall-Performance.jpg)
   
 
