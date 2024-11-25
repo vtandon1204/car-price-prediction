@@ -82,5 +82,5 @@ Contributions are welcome! Please fork the repository and create a pull request.
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 🙌 Acknowledgements
-Dataset: [Craigslist Cars and Trucks Data](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
-Special thanks to the open-source community.
+- Dataset: [Craigslist Cars and Trucks Data](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
+- Special thanks to the open-source community.
