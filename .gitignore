@@ -1,0 +1,8 @@
+# Ignore the dataset file
+vehicles.csv
+
+# Or, if it's in a folder:
+data/vehicles.csv
+
+# Ignore the entire dataset folder
+data/
