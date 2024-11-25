@@ -1,9 +1,9 @@
 # app.py
 
-import streamlit as st
+import streamlit as st #type: ignore
 import pickle
-import numpy as np
-import pandas as pd
+import numpy as np #type: ignore
+import pandas as pd #type: ignore
 
 # Load the pre-trained pipeline
 with open("final_pipeline.pkl", "rb") as file:
