@@ -55,7 +55,7 @@ Key findings from the data analysis include:
    ```bash
    streamlit run app.py
    
-4. Access the app at http://localhost:5000.
+4. Access the app at http://localhost:8501.
 
 ---
 
