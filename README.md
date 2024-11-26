@@ -46,7 +46,6 @@ Key findings from the data analysis include:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/vtandon1204/car-price-prediction.git  
-<<<<<<< HEAD
    cd car-price-prediction 
 
 2. Install dependencies:
@@ -65,18 +64,6 @@ Key findings from the data analysis include:
    streamlit run app.py
    
 6. Access the app at http://localhost:8501.
-=======
-   cd car-price-prediction  
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt  
-
-3. Run the application:
-   ```bash
-   streamlit run app.py
-   
-4. Access the app at http://localhost:8501.
->>>>>>> 7a8827510e5f0f3a8f292ab29ff6c75c42c228de
 
 ---
 
